@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.e6610dbf.css",
+    "main.js": "/react-portfolio/static/js/main.a55b0dd1.js",
+    "static/media/concadmic_home.png": "/react-portfolio/static/media/concadmic_home.39a7daddd9658e0be1f3.png",
+    "static/media/cafeasy.png": "/react-portfolio/static/media/cafeasy.921049899bc66c036179.png",
+    "static/media/react2.jpeg": "/react-portfolio/static/media/react2.6dd749a68f6be9a6a626.jpeg",
+    "static/media/nasake.png": "/react-portfolio/static/media/nasake.729f2d55cb3330fe8fa7.png",
+    "static/media/react1.png": "/react-portfolio/static/media/react1.19a3cb862ecd170f3b9a.png",
+    "static/media/workspace3-transformed.jpeg": "/react-portfolio/static/media/workspace3-transformed.a09041f40ccf5c8d557b.jpeg",
+    "index.html": "/react-portfolio/index.html",
+    "main.e6610dbf.css.map": "/react-portfolio/static/css/main.e6610dbf.css.map",
+    "main.a55b0dd1.js.map": "/react-portfolio/static/js/main.a55b0dd1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6610dbf.css",
+    "static/js/main.a55b0dd1.js"
+  ]
+}
